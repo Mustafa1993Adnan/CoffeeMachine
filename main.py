@@ -78,7 +78,6 @@ def coins_process():
     total += int(input("how many dimes?: ")) * 0.1
     total += int(input("how many nickles?: ")) * 0.05
     total += int(input("how many pennies?: ")) * 0.01
-    print(total)
     return total
 
 # call the program
